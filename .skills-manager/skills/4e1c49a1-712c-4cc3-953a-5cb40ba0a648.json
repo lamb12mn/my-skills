@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4e1c49a1-712c-4cc3-953a-5cb40ba0a648",
+  "path": "code-simplifier",
+  "path_key": "code-simplifier",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "getsentry/skills/code-simplifier",
+    "subpath": "skills\\code-simplifier",
+    "branch": null
+  }
+}

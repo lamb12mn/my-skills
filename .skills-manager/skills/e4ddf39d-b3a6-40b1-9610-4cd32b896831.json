@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e4ddf39d-b3a6-40b1-9610-4cd32b896831",
+  "path": "openspec-implementation-cn",
+  "path_key": "openspec-implementation-cn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "forztf/open-skilled-sdd/openspec-implementation-cn",
+    "subpath": "skills\\openspec-implementation-cn",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f06d3899-64cd-4746-81a6-c8698eed3142",
+  "path": "planning-with-files",
+  "path_key": "planning-with-files",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

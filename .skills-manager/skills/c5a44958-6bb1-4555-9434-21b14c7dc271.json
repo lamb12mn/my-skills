@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c5a44958-6bb1-4555-9434-21b14c7dc271",
+  "path": "ui-prompt-generator",
+  "path_key": "ui-prompt-generator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "zinohome/cozyengine/ui-prompt-generator",
+    "subpath": ".agent\\skills\\ui-prompt-generator",
+    "branch": null
+  }
+}

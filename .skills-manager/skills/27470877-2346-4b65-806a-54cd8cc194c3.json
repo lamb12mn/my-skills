@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "27470877-2346-4b65-806a-54cd8cc194c3",
+  "path": "llm-wiki",
+  "path_key": "llm-wiki",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

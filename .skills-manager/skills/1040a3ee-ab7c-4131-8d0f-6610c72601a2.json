@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1040a3ee-ab7c-4131-8d0f-6610c72601a2",
+  "path": "openspec-proposal-creation-cn",
+  "path_key": "openspec-proposal-creation-cn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "forztf/open-skilled-sdd/openspec-proposal-creation-cn",
+    "subpath": "skills\\openspec-proposal-creation-cn",
+    "branch": null
+  }
+}

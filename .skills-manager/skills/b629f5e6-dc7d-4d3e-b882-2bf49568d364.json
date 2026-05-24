@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b629f5e6-dc7d-4d3e-b882-2bf49568d364",
+  "path": "mcp-builder",
+  "path_key": "mcp-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "anthropics/skills/mcp-builder",
+    "subpath": "skills\\mcp-builder",
+    "branch": null
+  }
+}
