@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "scenario_id": "8e7cd84e-d9ba-49e9-afa3-4fad3b80eea3",
+  "skill_id": "41e55032-7e44-40ab-ab8b-5ca9248f005c",
+  "sort_order": 8,
+  "tools": {
+    "claude_code": true,
+    "codebuddy": true,
+    "codex": true,
+    "continue": true,
+    "cursor": true,
+    "hermes": true,
+    "openclaw": true,
+    "opencode": true,
+    "windsurf": true
+  }
+}
