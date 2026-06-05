@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c9824cf4-a929-4f5a-97c2-63d4503fe5e8",
+  "path": "repowiki",
+  "path_key": "repowiki",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "zzzhizhia/repowiki/repowiki",
+    "subpath": null,
+    "branch": null
+  }
+}

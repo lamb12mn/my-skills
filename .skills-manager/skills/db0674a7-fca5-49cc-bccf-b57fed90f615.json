@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "db0674a7-fca5-49cc-bccf-b57fed90f615",
+  "path": "codegraph",
+  "path_key": "codegraph",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "onsager-ai/dev-skills/codegraph",
+    "subpath": "skills\\codegraph",
+    "branch": null
+  }
+}
