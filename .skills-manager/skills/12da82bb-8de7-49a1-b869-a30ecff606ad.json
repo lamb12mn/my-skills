@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "12da82bb-8de7-49a1-b869-a30ecff606ad",
+  "path": "novel-architect",
+  "path_key": "novel-architect",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "junaid18183/novel-architect-skills/novel-architect",
+    "subpath": "skills\\novel-architect",
+    "branch": null
+  }
+}

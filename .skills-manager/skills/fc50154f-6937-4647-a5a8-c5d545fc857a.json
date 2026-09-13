@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fc50154f-6937-4647-a5a8-c5d545fc857a",
+  "path": "goal-driven",
+  "path_key": "goal-driven",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

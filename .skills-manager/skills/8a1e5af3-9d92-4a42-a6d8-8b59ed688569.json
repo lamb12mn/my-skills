@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8a1e5af3-9d92-4a42-a6d8-8b59ed688569",
+  "path": "novel-writer-cn",
+  "path_key": "novel-writer-cn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "yangsonhung/awesome-agent-skills/novel-writer-cn",
+    "subpath": "skills\\zh-cn\\novel-writer-cn",
+    "branch": null
+  }
+}

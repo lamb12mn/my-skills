@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "109002aa-c6ae-4824-ac00-37d32a5c5b2c",
+  "name": "小说",
+  "description": "写小说",
+  "icon": "terminal",
+  "sort_order": 999
+}

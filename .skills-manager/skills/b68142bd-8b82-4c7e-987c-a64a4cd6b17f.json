@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b68142bd-8b82-4c7e-987c-a64a4cd6b17f",
+  "path": "inkos-multi-agent-novel-writing",
+  "path_key": "inkos-multi-agent-novel-writing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "aradotso/trending-skills/inkos-multi-agent-novel-writing",
+    "subpath": "skills\\inkos-multi-agent-novel-writing",
+    "branch": null
+  }
+}

@@ -12,6 +12,7 @@
     "hermes": true,
     "openclaw": true,
     "opencode": true,
+    "qoder": true,
     "windsurf": true
   }
 }

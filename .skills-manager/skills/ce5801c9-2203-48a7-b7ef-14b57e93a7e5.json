@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ce5801c9-2203-48a7-b7ef-14b57e93a7e5",
+  "path": "chinese-novelist",
+  "path_key": "chinese-novelist",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "penglonghuang/chinese-novelist-skill/chinese-novelist",
+    "subpath": null,
+    "branch": null
+  }
+}

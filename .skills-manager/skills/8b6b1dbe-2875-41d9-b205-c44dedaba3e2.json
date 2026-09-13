@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8b6b1dbe-2875-41d9-b205-c44dedaba3e2",
+  "path": "awesome-novel",
+  "path_key": "awesome-novel",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "modoojunko/awesome-novel-skill/awesome-novel",
+    "subpath": null,
+    "branch": null
+  }
+}
